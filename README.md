@@ -4,10 +4,15 @@
 
 ---
 
+# WARNING!!
+# THE LOGIN SYSTEM IS NOT FUNCTIONAL, PLAY THE GAME BY GOING IN DEMO MODE
+---
+
 ## 📖 Overview
 **Speed Racer: Candy Tracks** is a restoration and preservation project based on *Topps’ Candy Tracks*, an Adobe Shockwave 3D racing game developed by **Blit Interactive** in 2008.
 
 When the *Speed Racer* movie promotion ended, the game was stripped of its original *Speed Racer* assets and branding, leaving behind only a generic “Candy Tracks” version. This project aims to **restore the missing media, assets, and functionality** to recreate the authentic *Speed Racer* experience as it existed during its original release.
+
 
 ---
 
