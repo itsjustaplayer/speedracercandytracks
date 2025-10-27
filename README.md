@@ -25,7 +25,7 @@ When the *Speed Racer* movie promotion ended, the game was stripped of its origi
 - ✅ Reimplementation of the original asset files.
 - 🧱 Documenting and comparing original *Speed Racer* promotional builds  
 
-![Progress Screenshot](assets/images/progress_screenshot.png)
+![Progress Screenshot](assets/images/image.png)
 
 ---
 
