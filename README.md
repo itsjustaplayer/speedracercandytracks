@@ -1,5 +1,5 @@
 # 🏎️ Speed Racer: Candy Tracks
-![Banner](assets/images/banner.png)  
+![Banner](assets/images/Banner.png)  
 *A restoration and preservation project for the lost-media Speed Racer Shockwave game*
 
 ---
