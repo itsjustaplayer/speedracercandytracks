@@ -53,5 +53,4 @@ All rights to the original intellectual property belong to their respective owne
 ---
 
 ## ⚡ Future Plans
-- Add all Hot Wheels cars from games made by Blit Interactive
 - Host a playable demo for archival purposes
