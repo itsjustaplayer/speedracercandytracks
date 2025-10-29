@@ -1,26 +1,22 @@
-# 🏎️ Speed Racer: Candy Tracks
+# 🏎️ Speed Racer: Candy Tracks EXPANDED
 ![Banner](assets/images/47.png)  
-*A restoration and preservation project for the lost-media Speed Racer Shockwave game*
+*A expansion and QOL project for the lost-media Speed Racer Shockwave game*
 
----
-
-# WARNING!!
-# THE LOGIN SYSTEM IS NOT FUNCTIONAL, PLAY THE GAME BY GOING IN DEMO MODE
 ---
 
 ## 📖 Overview
-**Speed Racer: Candy Tracks** is a restoration and preservation project based on *Topps’ Candy Tracks*, an Adobe Shockwave 3D racing game developed by **Blit Interactive** in 2008.
+**Speed Racer: Candy Tracks EXPANDED** is a modification expansionist project based on *Topps’ Candy Tracks*, an Adobe Shockwave 3D racing game developed by **Blit Interactive** in 2008.
 
-When the *Speed Racer* movie promotion ended, the game was stripped of its original *Speed Racer* assets and branding, leaving behind only a generic “Candy Tracks” version. This project aims to **restore the missing media, assets, and functionality** to recreate the authentic *Speed Racer* experience as it existed during its original release.
-
+When the *Speed Racer* movie promotion ended, the game was stripped of its original *Speed Racer* assets and branding, leaving behind only a generic “Candy Tracks” version. This project aims to expand upon the Preservation mod, by readding functionality such as the login system, using a web-server, add more speed racer cars, more speed racer tracks, all fitting the overall art style.
 
 ---
 
 ## 🎯 Goals
-- 🏁 Restore original *Speed Racer* textures, sounds, and 3D models  
-- 🎨 Restore missing UI elements and branding 
-- 🧩 Preserve gameplay behavior and physics accurately  
-- 🕹️ Archive the project for historical and educational purposes  
+- 🎯 Restore original *Speed Racer* textures, sounds, and 3D models
+- 🎯 Add all the 2008 Movie Speed Racer tracks like: Thunderhead Raceway, Fuji Helexicon, Cosmopolis Grand Prix and etc.
+- 🎯 Add OSTs and special effects
+- 🎯 Add functional multiplayer.
+
 
 ---
 
@@ -28,7 +24,8 @@ When the *Speed Racer* movie promotion ended, the game was stripped of its origi
 - ✅ Full access to the original Shockwave source files (`.dir`, `.cst`, `.dcr`)  
 - ✅ Obtain the original asset files (Special thanks to Solarstance, Owner of Iron Monkey)
 - ✅ Reimplementation of the original asset files.
-- 🧱 Documenting and comparing original *Speed Racer* promotional builds  
+- 🧱 Reimplementation of Topps' Car variants.
+- 🧱 Implementation of more tracks
 
 ![Progress Screenshot](assets/images/image.png)
 
@@ -51,6 +48,3 @@ This is a **non-commercial preservation project**.
 All rights to the original intellectual property belong to their respective owners.
 
 ---
-
-## ⚡ Future Plans
-- Host a playable demo for archival purposes
